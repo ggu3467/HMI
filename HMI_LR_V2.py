@@ -53,6 +53,7 @@ class CtrlServer:
     def selected(self):
         return self.TrimSelected
 
+
 # Controls for locomotive
     def SetStart(self):
         x = self.marche.get()

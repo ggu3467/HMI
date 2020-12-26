@@ -8,6 +8,7 @@ class Constante:
     def __init__(self, filename):
         self.file = filename
 
+
     def ParseLine(self, str1):
     # ----------------------------------------------------------------------------------------------#
     # The client application is in Python and the server application in C code...
